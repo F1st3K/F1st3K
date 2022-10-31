@@ -10,5 +10,5 @@
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&amp;logo=telegram&amp;logoColor=27A0D9)](https://t.me/f1st3k)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&amp;logo=YouTube&amp;logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&amp;logo=Vk&amp;logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&amp;logo=YouTube&amp;logoColor=FF0000)](https://www.youtube.com/channel/UCzk8qCVxCBnMx8TexjtQNJw)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&amp;logo=Vk&amp;logoColor=4F7DB3)](https://vk.com/f1st3k)
