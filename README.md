@@ -3,10 +3,10 @@
 	<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 	<div id="badges">
 	  <a href="https://t.me/f1st3k">
-	    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+	    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="f1st3k"/>
 	  </a>
 	  <a href="https://f1st3k.work@mail.ru">
-	    <img src="https://img.shields.io/badge/f1st3k.work@mail.ru-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
+	    <img src="https://img.shields.io/badge/f1st3k.work@mail.ru-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white" alt="f1st3k.work@mail.ru"/>
 	  </a>
 	</div>
 	<img src="https://komarev.com/ghpvc/?username=F1st3K&style=for-the-badge&color=blue" alt=""/>
