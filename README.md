@@ -5,7 +5,7 @@
 	  <a href="https://t.me/f1st3k">
 	    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="f1st3k"/>
 	  </a>
-	  <a href="https://f1st3k.work@mail.ru">
+	  <a href="mailto:f1st3k.work@mail.ru">
 	    <img src="https://img.shields.io/badge/f1st3k.work@mail.ru-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white" alt="f1st3k.work@mail.ru"/>
 	  </a>
 	</div>
