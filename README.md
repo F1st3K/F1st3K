@@ -15,18 +15,10 @@
 ----------------------------------------------------------------
 
 ### :man_technologist: About Me : 
-> I am a student at a technical college studying programming. At the moment I'm studying: 
-> * Back-end development, in particular Asp .Net Core
-> *  Also been studying front-end development with React
-
-----------------------------------------------------------------
-
-<details>
-<summary>:fire: My Stats :</summary>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1st3K&theme=nord_dark)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F1st3K&theme=nord_dark)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F1st3K&theme=nord_dark&utcOffset=3)
- 
-</details>
+* I am developing backend applications on the dotnet core platform.
+* I am interested in studying and applying the best programming practices (Clean Architecture, SOLID, ..you name it..).
+* I love designing systems.
+* Sometimes I have to develop a frontend on React TypeScript. (((
 
 ----------------------------------------------------------------
 
